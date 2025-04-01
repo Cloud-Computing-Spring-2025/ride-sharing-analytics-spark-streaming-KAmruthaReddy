@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-KAmruthaReddy/output/ride_data/part-00000-70377c2d-c4aa-49eb-9763-42f182ed1686-c000.csv","size":356,"isDir":false,"modificationTime":1743529840339,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-KAmruthaReddy/output/ride_data/part-00001-6729a907-5208-45b8-9fdd-d96ad7804ce8-c000.csv","size":357,"isDir":false,"modificationTime":1743529840336,"blockReplication":1,"blockSize":33554432,"action":"add"}
